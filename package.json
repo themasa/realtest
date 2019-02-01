@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/themasa/realtest/issues"
   },
-  "homepage": "https://github.com/themasa/realtest#readme"
+  "homepage": "https://github.com/themasa/realtest#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
 }
