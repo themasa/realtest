@@ -1,0 +1,19 @@
+{
+  "name": "realtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themasa/realtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themasa/realtest/issues"
+  },
+  "homepage": "https://github.com/themasa/realtest#readme"
+}
